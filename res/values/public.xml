@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="drawable" name="ic_notify" id="0x7f020001" />
+    <public type="string" name="app_name" id="0x7f030000" />
+    <public type="style" name="Theme.Chainfire.Default" id="0x7f040000" />
+    <public type="style" name="Theme.Chainfire.Default.NoTitleBar" id="0x7f040001" />
+    <public type="style" name="Theme.Chainfire.Default.Fullscreen" id="0x7f040002" />
+    <public type="style" name="Theme.Chainfire.Holo" id="0x7f040003" />
+    <public type="style" name="Theme.Chainfire.Holo.NoTitleBar" id="0x7f040004" />
+    <public type="style" name="Theme.Chainfire.Holo.Fullscreen" id="0x7f040005" />
+</resources>

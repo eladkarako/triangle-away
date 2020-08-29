@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Chainfire.Default" parent="@android:style/Theme.Holo" />
+    <style name="Theme.Chainfire.Default.NoTitleBar" parent="@android:style/Theme.Holo.NoActionBar" />
+    <style name="Theme.Chainfire.Default.Fullscreen" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen" />
+    <style name="Theme.Chainfire.Holo" parent="@android:style/Theme.Holo" />
+    <style name="Theme.Chainfire.Holo.NoTitleBar" parent="@android:style/Theme.Holo.NoActionBar" />
+    <style name="Theme.Chainfire.Holo.Fullscreen" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen" />
+</resources>

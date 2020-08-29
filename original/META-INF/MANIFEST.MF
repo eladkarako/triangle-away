@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: sQeLtPIY4k95uXr6/5TH4jjXNV4=
+
+Name: res/drawable-ldpi/ic_notify.png
+SHA1-Digest: ltK2Lpc8Jhn0navFvqGT/28TUz8=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: hW/lYQNYS7X9yHxQRj4uH58DLWs=
+
+Name: res/drawable-mdpi/ic_notify.png
+SHA1-Digest: Nuh3IKX9N+DzLBgDYNJUKxa3uB4=
+
+Name: assets/triangleaway.png.png
+SHA1-Digest: d6GdfpsQ4bVj9D4Or2Swy1hmjK0=
+
+Name: res/drawable-xhdpi/ic_notify.png
+SHA1-Digest: PX5Iwdmxja2r9eySasp0GBqqBdI=
+
+Name: resources.arsc
+SHA1-Digest: i728G6LwUcyHvnzkx8Cc2fkFNa0=
+
+Name: assets/triangleawaysr.png
+SHA1-Digest: k3j4Pwyw96APf5F77tmLs7tyGyw=
+
+Name: classes.dex
+SHA1-Digest: uxvDZ3x/U16NvtqsE9NNrTv7178=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: hLWJgtJI2eJv4W55DBTsladls3E=
+
+Name: AndroidManifest.xml
+SHA1-Digest: o9i/zze3pYcEtr+TaGHe4Lvn8C4=
+
+Name: assets/chattr.png
+SHA1-Digest: QVQZgIatOrboo2Rxl2aXZ7uotT4=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: sQeLtPIY4k95uXr6/5TH4jjXNV4=
+
+Name: res/drawable-hdpi/ic_notify.png
+SHA1-Digest: Mcn2tkAef5Ma6Tk8yonFx9HsvoM=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: +vnhR2t4VRNrrnXdsDQJy1z/30A=
+
+Name: res/drawable/ic_notify.png
+SHA1-Digest: PX5Iwdmxja2r9eySasp0GBqqBdI=
+
+Name: assets/triangleaway.png
+SHA1-Digest: 5uh4OVfky68NBOfDWPAeJTgL/Nw=
+
